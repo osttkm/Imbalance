@@ -11,3 +11,4 @@ This repository contains codes for working on  graduation thesis.　
     <sup>[1](https://arxiv.org/abs/1906.07413)
     * **Focal Loss** <sup>
     <sup>[2](https://arxiv.org/abs/1708.02002)
+    * other
