@@ -12,3 +12,16 @@ This repository contains codes for working on  graduation thesis.　
     * **Focal Loss** <sup>
     <sup>[2](https://arxiv.org/abs/1708.02002)
     * other
+
+### Main usage
+Make running cb_train.py .
+### Experiment Manager
+MLFLOW
+### Environment
+* python3.9
+* cudatoolkit 11.3
+
+## Coution
+In this experiment, seed is realy important. 
+
+Make sure checking seed by seed_check.py
